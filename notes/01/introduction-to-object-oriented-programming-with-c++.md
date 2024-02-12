@@ -1,0 +1,3 @@
+- welcome to Object Oriented Programming
+- Course syllabus
+- Getting read for this course
