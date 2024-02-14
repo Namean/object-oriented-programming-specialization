@@ -1,3 +1,4 @@
 #!/bin/bash
 
-g++ main.cpp -o merklerex
+# g++ main.cpp -o merklerex
+gcc --std=c++11 main.cpp -o merklerex -lncurses -lstdc++

@@ -1,0 +1,4 @@
+#!/bin/bash
+shopt -s expand_aliases
+alias I_am_only_ls_alias=ls
+I_am_only_ls_alias
